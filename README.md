@@ -1,0 +1,1 @@
+# encryptix-task-about-landing-page
